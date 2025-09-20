@@ -27,3 +27,18 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## hooks 介绍
+
+项目中使用了 React 19 版本的新特性 hooks, 项目中使用了以下 hooks:
+
+- useState
+- useEffect
+- useContext
+- useReducer
+- useCallback
+- useMemo
+- useRef
+- useImperativeHandle
+- useLayoutEffect
+- useDebugValue

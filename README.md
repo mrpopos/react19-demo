@@ -14,3 +14,16 @@ If you are developing a production application, we recommend using TypeScript wi
 ## 项目介绍
 
 这是一个 React + Vite 项目, 项目使用 React 19 版本, 并使用 Vite 作为构建工具.
+
+## 项目运行
+
+```bash
+npm install
+npm run dev
+```
+
+## 项目构建
+
+```bash
+npm run build
+```

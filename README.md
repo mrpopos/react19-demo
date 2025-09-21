@@ -42,3 +42,8 @@ npm run build
 - useImperativeHandle
 - useLayoutEffect
 - useDebugValue
+
+## 测试 git restore
+
+- git restore --worktree .
+- git restore --staged .

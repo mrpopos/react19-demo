@@ -47,3 +47,5 @@ npm run build
 
 - git restore --worktree .
 - git restore --staged .
+
+## 测试 git revert HEAD

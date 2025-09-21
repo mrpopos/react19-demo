@@ -14,7 +14,6 @@ If you are developing a production application, we recommend using TypeScript wi
 ## 项目介绍
 
 这是一个 React + Vite 项目, 项目使用 React 19 版本, 并使用 Vite 作为构建工具.
-<<<<<<< HEAD
 
 ## 项目运行
 
@@ -48,5 +47,3 @@ npm run build
 
 - git restore --worktree .
 - git restore --staged .
-=======
->>>>>>> parent of 179beca (Revert "docs: 在README中添加React Hooks文档链接")
